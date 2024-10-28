@@ -33,7 +33,7 @@ const Footer = () => {
                 <div className="flex items-center">
                  
                 <a
-                    href="https://www.linkedin.com/in/bentoqueiroztech"
+                    href="https://www.linkedin.com/company/bentotecnologia"
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
